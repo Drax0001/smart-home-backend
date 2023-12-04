@@ -1,6 +1,6 @@
 # Instructions on how to install it
 
-###  First Clone the repo: `git clone 'repo link'`
+###  First Clone the repo: `git clone https://github.com/Drax0001/smart-home-backend.git`
 
 ###  install the dependencies: `pip install flask pymongo`
 
